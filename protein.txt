@@ -1,0 +1,16 @@
+Lysozyme
+Lysozyme
+Hemoglobin-alpha
+Hemoglobin-beta
+Chicken
+Human
+Human
+Human
+LYSC_CHICK
+LYSC_HUMAN
+HBA_HUMAN
+HBB_HUMAN
+P00698
+P61626
+P69905
+P68871
